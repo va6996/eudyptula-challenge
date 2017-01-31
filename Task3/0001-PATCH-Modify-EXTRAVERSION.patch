@@ -1,0 +1,25 @@
+From 9dffdbaf9e7e80211901cb0ee7f156d50ea79f28 Mon Sep 17 00:00:00 2001
+From: Vinayak Agarwal <vinayakagarwal6996@gmail.com>
+Date: Tue, 31 Jan 2017 14:59:15 +0530
+Subject: [PATCH] [PATCH] Modify EXTRAVERSION
+
+---
+ Task3/Makefile | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/Task3/Makefile b/Task3/Makefile
+index 0988400..1d945c0 100644
+--- a/Task3/Makefile
++++ b/Task3/Makefile
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 10
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc5
++EXTRAVERSION = -eudyptula
+ NAME = Anniversary Edition
+ 
+ # *DOCUMENTATION*
+-- 
+2.11.0
+
