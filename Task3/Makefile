@@ -1,7 +1,7 @@
 VERSION = 4
 PATCHLEVEL = 10
 SUBLEVEL = 0
-EXTRAVERSION = -rc5
+EXTRAVERSION = -eudyptula
 NAME = Anniversary Edition
 
 # *DOCUMENTATION*
